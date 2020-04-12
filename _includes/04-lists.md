@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+*	Burbon
+*	American Single Malt
+*	Scotch Single Malt
+    * Campbeltown
+    * Islay
+    * Highlands
+    * Speyside
+    * Islands
+    * Lowlands
